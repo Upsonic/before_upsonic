@@ -1,1 +1,2 @@
-from .basics import sum
+from .basics import sum, sub
+from .standard import multiple
